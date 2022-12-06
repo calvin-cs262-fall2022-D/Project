@@ -1,1 +1,70 @@
-<mxfile host="app.diagrams.net" modified="2022-12-06T15:13:44.739Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="8fgPpirB_Hc1F1eXoi-4" version="20.3.6" type="github"><diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">7Vpdk5owFP01PnYGCCA+ruvu9qHtdGqnfY5whcwGQmNctb++iYRvdJmtrnTKk8nJzQf3nHuTIBN0H++fOE6jzywAOrGMYD9Bi4llmbbhyR+FHDJkamsg5CTQRiWwJL9Bg4ZGtySATc1QMEYFSeugz5IEfFHDMOdsVzdbM1qfNcUhtIClj2kb/UkCEWnUNIyy4SOQMNJTe45uWGH/OeRsm+j5EpZA1hLjfBhtuolwwHYVCD1M0D1nTGSleH8PVLk191jW7/FEa7FkDono0wHNTMcAz/bWpuPZhv9Bj/CC6Va7YU6Z/6xXKw65c16ACyJ9dUdJmEhIsHSC5ljXKKzl9PNNin2ShN9V28IrgU/H5oVVIt+0G80jFuFUTeNvV6CqmTKkLNA8IFxSTZiaZMO2ypvzNUvEUq/MlvVIxFTZy+KRBFDPamTjZs5WFZ/FxNdlildA5wVr94wyLpuOvMlugrPnQgKmnvERx4QqZf8AHuAE5wvRi7XaTOSulZ6DfQXSzDwBi0HwgzTJW3OV5AGkq7tSjQhpLKoIsVAX1hEQFkOXUpAFrYaeyrBGZQxGGQ4akjLQqIzBKANN68qwzbY0LLdDGqZzDWnYLWlMLBfH6dGBv7ZM/pJEAF9jH4oWrlskQJUkVlyWQlFFcuALjiEH5eJWpWFDewMhuJS7D+q5i6X+3Ubh1kmXZ68W6abZQfpVOHdanMuz4ZZCi5MiZlmcSq+qxz+RDXTwI/fm9FV0dIloNRvEIadNnNVBnHsN4tyOYG1QJkeQx2/lwV1EBCxTFbdosZM3gOFk0esEGWoEmYU6MmvXnnsNqqZjjPU+KzWT401jzBs3xHeI1ak1pA1xNubVM1y51oDyaq6JMbG+TpxtN64abkeQvVtiNc12UAUh5Jc87bq6/yv+CPAmOuJmD/djLu7UC8YG9kjUcjNmVV27Xl1iIQnyHiyFJEMq9rKWE+X25/MkifKay314ReNyiSGI82dB5cKzWuBAsSAv9VemlyW2I1uOxHZ5CvXgdTYcXtFZXoGu2O6hBE4zfFVSdY/bkTrrQep0OKTaI6k9SHV7kOoMh1TnLKmMi4iFLMH09sxeMAfXNo630ez0oNm+NM3HrtIf+FAxSJm8VW4qI39VQOXlhtM4hDf/N2zYW7kmuu1lIVtBKbjiUd6oQfeSGvyPDgXTHhr0hpNqpv9Mqrn5JtLnuGcNIru4s3q2sD3nytnCG2V0SRmZg5CR5V1URrJafmiTmZcfMqGHPw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-12-06T15:39:22.176Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="NEXgRfZlSri4y0pWlpjf" version="20.3.6" type="github">
+  <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
+    <mxGraphModel dx="1122" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="39150e848f15840c-1" value="&amp;lt;&amp;lt;Client&#39;s Phone&amp;gt;&amp;gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" parent="1" vertex="1">
+          <mxGeometry x="140" y="80" width="290" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="MrR0ZnOYLmKXE9oigX3_-2" target="MrR0ZnOYLmKXE9oigX3_-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-2" value="Async/LocalStorage" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="230" y="130" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-3" value="Knightflix Application" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="220" width="190" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-9" value="Heroku&lt;br&gt;&amp;lt;&amp;lt;App Server&amp;gt;&amp;gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="320" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-10" value="Dynos&lt;br&gt;&amp;lt;&amp;lt;Execution Environment&amp;gt;&amp;gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="555" y="135" width="250" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-13" value="knightflixService.js" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="190" width="210" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-14" value="ElephantSQL&lt;br&gt;&amp;lt;&amp;lt;DataBase Server&amp;gt;&amp;gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="520" y="360" width="320" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-15" value="PostGreSQL&lt;br&gt;&lt;br&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;" vertex="1" parent="1">
+          <mxGeometry x="545" y="420" width="260" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-16" value="movies.sql" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="560" y="470" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-17" value="Vimeo Application Server&lt;br&gt;&amp;lt;&amp;lt;App Server&amp;gt;&amp;gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="140" y="400" width="300" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-18" value="Vimeo DataBase Server&lt;br&gt;&amp;lt;&amp;lt;DB Server&amp;gt;&amp;gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
+          <mxGeometry x="140" y="620" width="300" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-20" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="580" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-21" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="675" y="320" width="10" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-23" value="" style="line;strokeWidth=2;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="195" width="90" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-24" value="" style="line;strokeWidth=2;direction=south;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="350" width="10" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-25" value="Vimeo App Service" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="460" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-26" value="Vimeo Database" style="html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="680" width="220" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.002;entryY=0.939;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="39150e848f15840c-1" target="39150e848f15840c-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MrR0ZnOYLmKXE9oigX3_-28" value="HTTP(S)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="440" y="165" width="70" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
