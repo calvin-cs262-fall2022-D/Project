@@ -7,6 +7,7 @@ Here is our:
 - [Client](https://github.com/calvin-cs262-fall2022-D/Client)
 - [Data Service](https://github.com/calvin-cs262-fall2022-D/Service)
 - [Trello](https://trello.com/b/5Rx3Rn8t/d)
+- [Deployment Diagram](https://github.com/calvin-cs262-fall2022-D/Project/blob/main/images/deploymentdiagram.png)
 
 Team Members:
 Joshua DeWindt,
